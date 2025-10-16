@@ -71,17 +71,13 @@ Driven by curiosity and creativity, always learning, always building 🌍
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">🚀 GitHub Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iceCoding01&show_icons=true&theme=radical&border_radius=10" height="160" alt="GitHub stats" />
-<p align="center">
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iceCoding01&theme=radical&border_radius=10" height="160" alt="GitHub streak" />
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=iceCoding01&show_icons=true&theme=radical&border_radius=10" height="160" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
+  <img src="https://streak-stats.demolab.com?user=iceCoding01&theme=radical&border_radius=10" height="160" alt="GitHub Streak" style="display:inline-block;" />
 </div>
 
 ###
